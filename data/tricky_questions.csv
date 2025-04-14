@@ -1,0 +1,31 @@
+question,category,note
+Làm sao để biết chiếc đầm tôi đã lưu trong mục yêu thích còn hàng không?,2,Kết hợp favorite + stock
+Tìm lại chiếc áo trắng có hình con mèo mà tôi thấy lúc sáng kiểu gì?,2,Tìm kiếm lại sản phẩm đã xem
+Áo khoác da đó có được đổi trả qua website không?,2,Hỏi về chính sách thông qua chức năng web
+Có cách nào lọc những sản phẩm đang giảm giá mạnh không?,2,Filter là website usage
+Web có hiển thị size mẫu đang mặc trong hình không?,2,"UI feature, không phải product info"
+Mấy chiếc váy trong bộ sưu tập xuân đó còn hàng không?,1,Dù nói 'bộ sưu tập' nhưng là về availability
+"Tôi thêm vào giỏ rồi nhưng không thấy áo hoodie đâu nữa, có còn không?",2,Giỏ hàng là usage
+Có thể đổi màu sản phẩm ngay trong trang chi tiết không?,2,Cách tương tác trên UI
+Làm sao để chắc rằng áo thun size S vừa với tôi?,1,Về kích cỡ sản phẩm
+Tôi muốn xem các mẫu tương tự với áo thun #A321 thì làm sao?,2,Hỏi về đề xuất tương tự → usage
+Sao khi tôi nhấn mua thì bị chuyển trang khác?,2,Liên quan đến hành vi web
+Áo khoác này khi mặc có bị xù lông không?,1,Chất lượng sản phẩm
+Có thể chọn nhiều kích cỡ cùng lúc khi mua không?,2,Interaction trong UI
+Tôi nên tìm áo vest nam ở đâu trên web?,2,Câu hỏi về điều hướng web
+Chất liệu của áo sơ mi #B109 là gì?,1,Hỏi trực tiếp về sản phẩm
+"Giỏ hàng của tôi bị mất sau khi reload trang, là lỗi gì?",2,Vấn đề UX
+Sản phẩm có hiển thị được đánh giá không? Tôi muốn xem trước khi mua,2,Chức năng review
+Chất liệu ren có dễ bị rách không khi giặt tay?,1,Chất lượng liên quan sản phẩm
+Làm sao biết áo tôi mua trước đó là size gì?,2,Lịch sử đơn hàng
+Có thể thanh toán từng phần không?,2,Tính năng trả góp/partial payment
+Web có chế độ tối (dark mode) không?,3,Câu hỏi về UI unrelated đến thời trang
+Tôi có thể mua mà không cần tạo tài khoản không?,2,Chức năng website
+"Tôi bị mất đơn hàng trong mục theo dõi, xử lý thế nào?",2,Tracking & support
+Có mã giảm giá nào cho lần đầu mua không?,1,Về ưu đãi sản phẩm
+Áo hoodie này có giống với mẫu tôi thấy trên Instagram không?,1,So sánh sản phẩm
+App có gửi thông báo khi có hàng mới không?,2,Notification feature
+Có thể đặt lịch giao hàng cho cuối tuần được không?,2,Shipping feature
+Trang này có dùng ReactJS không?,3,"Kỹ thuật, không liên quan tới người dùng"
+Tôi có thể hỏi stylist chọn đồ giúp không?,1,"Gợi ý outfit, vẫn thuộc sản phẩm"
+Làm sao để phân biệt giữa hai mẫu áo có mã gần giống nhau?,1,So sánh sản phẩm
