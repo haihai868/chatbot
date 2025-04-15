@@ -60,8 +60,5 @@ classification_chain = classification_prompt | llm
 def classify_question(question):
     return classification_chain.invoke({"question": question}).content
 
-llm_start = time.time()
-print(classify_question("Hello, How can I find a red dress that I saw yesterday?"))
-llm_time = time.time() - llm_start
-
-print(f"LLM response time: {llm_time:.2f} seconds")
+print(classify_question("Can I ask you a question?"))
+print(classify_question("How do I know if the dress I saved in favorites is still in stock?"))

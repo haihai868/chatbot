@@ -87,4 +87,4 @@ faqs_vstore = connect_to_vstore('faqs')
 # faqs_vstore.add_documents(documents=docs, ids=ids)
 
 prods_retriever = prods_vstore.as_retriever(search_kwargs={'k': 5})
-# faqs_retriever = faqs_vstore.as_retriever(search_kwargs={'k': 5})
+faqs_retriever = faqs_vstore.as_retriever(search_kwargs={'k': 5})

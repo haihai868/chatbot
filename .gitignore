@@ -2,3 +2,4 @@
 chroma_db/
 chromadb_test.py
 __pycache__/
+.idea/
